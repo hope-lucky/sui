@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["handle_sui_transcations_loop","into_token_transfers"]};
